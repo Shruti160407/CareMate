@@ -1,0 +1,16 @@
+#core librarian
+langchain
+llama-index
+haystack
+
+#for a backend server 
+fastapi
+uvicorn
+
+#additional tools
+requests
+python-dotenv
+
+# Optional Ai agent frameworks
+# (Install if you plan to use them; some may not be on PyPI or may require extra steps)
+autogpt

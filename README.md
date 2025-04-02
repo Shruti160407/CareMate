@@ -10,7 +10,7 @@ Project repo: https://github.com/Shruti160407/CareMate.git
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n caremate python=3.10 -y
+conda create -n caremate python=3.9 -y
 ```
 
 ```bash
